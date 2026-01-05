@@ -1,5 +1,5 @@
 # buckshot-roulette-bullet-counter
-simple tool to count bullets in buckshot roulette
+simple tool for counting bullets in buckshot roulette
 https://store.steampowered.com/app/2835570/Buckshot_Roulette/
 
 ![image](https://github.com/user-attachments/assets/6fea8478-16d2-4c51-8a17-7f10f002ca34)
